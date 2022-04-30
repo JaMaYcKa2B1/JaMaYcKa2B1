@@ -3,6 +3,10 @@
 
 **JaMaYcKa2B1/JaMaYcKa2B1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/JaMaYcKa2B1">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=JaMaYcKa2B1&count_private=true&show_icons=true&hide=prs,contribs" />
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=JaMaYcKa2B1&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=708CA9&bg_color=22212C)
+<a href="https://github.com/JaMaYcKa2B1">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=JaMaYcKa2B1&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=708CA9&bg_color=22212C" />
+</a>
