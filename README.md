@@ -11,6 +11,8 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=JaMaYcKa2B1&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=708CA9&bg_color=22212C" />
 </a>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaMaYcKa2B1&repo=Feedbro-locale-ar_SA&theme=vue-dark)](https://github.com/JaMaYcKa2B1/Feedbro-locale-ar_SA)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
