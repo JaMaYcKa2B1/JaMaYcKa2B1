@@ -13,6 +13,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaMaYcKa2B1&repo=Feedbro-locale-ar_SA&theme=vue-dark)](https://github.com/JaMaYcKa2B1/Feedbro-locale-ar_SA)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaMaYcKa2B1&repo=FakeEmail&theme=vue-dark)](https://github.com/JaMaYcKa2B1/FakeEmail)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
